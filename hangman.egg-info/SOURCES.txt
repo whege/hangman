@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+hangman/__init__.py
+hangman/__main__.py
+hangman/game.py
+hangman/the_hangman.py
+hangman.egg-info/PKG-INFO
+hangman.egg-info/SOURCES.txt
+hangman.egg-info/dependency_links.txt
+hangman.egg-info/requires.txt
+hangman.egg-info/top_level.txt
